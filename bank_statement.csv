@@ -1,0 +1,26 @@
+transaction_id,date,description,amount
+BANK001,2024-01-02,Customer Payment - Invoice #1001,1500.00
+BANK002,2024-01-03,Wire Transfer from Client A,5000.00
+BANK003,2024-01-05,Direct Deposit - Payroll,12500.00
+BANK004,2024-01-06,ACH Payment - Invoice #1002,3200.00
+BANK005,2024-01-08,Credit Card Payment,875.50
+BANK006,2024-01-10,Wire Transfer from Client B,7500.00
+BANK007,2024-01-12,Check Deposit #4521,2100.00
+BANK008,2024-01-15,ACH Payment - Invoice #1003,4500.00
+BANK009,2024-01-16,Direct Deposit - Payroll,12500.00
+BANK010,2024-01-18,Wire Transfer from Client C,12000.00
+BANK011,2024-01-20,Customer Payment - Invoice #1004,2800.00
+BANK012,2024-01-22,ACH Payment - Invoice #1005,5600.00
+BANK013,2024-01-25,Check Deposit #4522,1800.00
+BANK014,2024-01-26,Wire Transfer from Client D,9500.00
+BANK015,2024-01-28,Credit Card Payment,1250.00
+BANK016,2024-01-30,ACH Payment - Invoice #1006,3400.00
+BANK017,2024-02-01,Direct Deposit - Payroll,12500.00
+BANK018,2024-02-03,Wire Transfer from Client E,6800.00
+BANK019,2024-02-05,Customer Payment - Invoice #1007,4200.00
+BANK020,2024-02-08,ACH Payment - Invoice #1008,7100.00
+BANK021,2024-02-10,Check Deposit #4523,2900.00
+BANK022,2024-02-12,Wire Transfer from Client F,15000.00
+BANK023,2024-02-15,Credit Card Payment,950.00
+BANK024,2024-02-18,ACH Payment - Invoice #1009,3800.00
+BANK025,2024-02-20,Direct Deposit - Payroll,12500.00
